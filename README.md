@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhash896&label=Profile%20views&color=0e75b6&style=flat" alt="abhash896" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhash896" alt="abhash896" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhash896" alt="abhash896" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Artificial Intelligence by Andrew NG.**
 
