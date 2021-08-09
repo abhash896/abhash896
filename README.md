@@ -23,7 +23,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/124px-R_logo.svg.png" alt="r programming" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/375px-Tableau_logo.svg.png" alt="tableau" width="100" height="40"/> </a></p>
 
-<p align = "center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhash896&show_icons=true&locale=en&layout=compact" alt="abhash896" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhash896&show_icons=true&locale=en&layout=compact" alt="abhash896" /></p>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhash896&show_icons=true&locale=en" alt="abhash896" /></p>
 
