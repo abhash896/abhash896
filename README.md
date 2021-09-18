@@ -1,3 +1,4 @@
+<body style="background-color:powderblue;">
 <h1 align="center">Hello 👋, I'm Abhash Kumar Ranjan</h1>
 <h3 align="center">A Data Science, ML and AI enthusiast and a data analyst with proficiency in platforms such as Python, R, SQL,Tableau and Spreadsheets.</h3>
 
@@ -28,5 +29,5 @@
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhash896&show_icons=true&locale=en" alt="abhash896" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhash896&" alt="abhash896" /></p>
-
+</body>
 
