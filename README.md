@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Artificial Intelligence by Andrew NG.**
 
-- 🤝 I’m looking for help with **Internship in Data science**
+- 🤝 I’m looking for help with **Job in Data science**
 
 - 📫 I can be reached via **abhashranjan896@gmail.com**
 
