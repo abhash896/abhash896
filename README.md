@@ -1,14 +1,12 @@
 
 <h1 align="center">Hello 👋, I'm Abhash Kumar Ranjan</h1>
-<h3 align="center">A Data Science, ML and AI enthusiast and a data analyst with proficiency in platforms such as Python, R, SQL,Tableau and Spreadsheets.</h3>
+<h3 align="center">A Data Science, ML and AI enthusiast with proficiency in platforms such as Python, R, SQL,Tableau and Spreadsheets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhash896&label=Profile%20views&color=0e75b6&style=flat" alt="abhash896" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhash896" alt="abhash896" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Artificial Intelligence**
-
-- 🤝 I’m looking for help with **Job in Data science**
+- 🌱 I’m currently working as a  **Machine Learning Engineer** in a FinTech company named Monsoon CreditTech.
 
 - 📫 I can be reached via **abhashranjan896@gmail.com**
 
